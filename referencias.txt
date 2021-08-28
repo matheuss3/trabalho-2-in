@@ -1,0 +1,22 @@
+Técnicas de Mineração de Dados
+Sandra de Amo
+Universidade Federal de Uberlândia
+Faculdade de Computação
+deamo@ufu.br
+
+
+Combinando Algoritmos de Classificação para Detecção de
+Intrusão em Redes de Computadores
+Alex L. Ramos1
+, Cícero N. dos Santos1
+
+INTRODUÇÃO À MINERAÇÃO DE DADOS COM APLICAÇÕES
+EM CIÊNCIAS AMBIENTAIS E ESPACIAIS
+Rafael Santos
+
+https://www.inf.ufsc.br/~aldo.vw/patrec/agrupamentos.html
+
+As Tarefas de Associação e de Classificação na Shell de
+Data Mining Orion
+Diana Colombo Pelegrin1, Diego Paz Casagrande1, Merisandra Côrtes de Mattos2,
+Priscyla Waleska Targino de Azevedo Simões3, Rafael Charnovscki4, Jane Bettiol5
