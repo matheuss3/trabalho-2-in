@@ -20,3 +20,11 @@ As Tarefas de Associação e de Classificação na Shell de
 Data Mining Orion
 Diana Colombo Pelegrin1, Diego Paz Casagrande1, Merisandra Côrtes de Mattos2,
 Priscyla Waleska Targino de Azevedo Simões3, Rafael Charnovscki4, Jane Bettiol5
+
+
+Agrupamento de dados e suas aplicações
+Jakelson Carreiro Mendes
+
+https://scikit-learn.org/stable/about.html
+
+https://pandas.pydata.org/about/
